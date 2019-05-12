@@ -1,4 +1,6 @@
-## 7 Days to Die server that runs inside a Docker container
+# WIP 7dtd-smx-server
+
+A docker container that hosts a 7 days to die server that also has SMX hud mod enabled.
 
 *Show your support for this project by signing up for a [free Bitrise account!](https://app.bitrise.io?referrer=02c20c56fa07adcb)*
 
